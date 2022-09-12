@@ -45,7 +45,7 @@ To build a standalone executable:
 ``` 
 poetry run pyinstaller csvql.py --onefile
 
-ls dist  # exec will be generated dist folder
+ls dist  # exec will be located in generated dist folder
 ```
 
 ## License 
