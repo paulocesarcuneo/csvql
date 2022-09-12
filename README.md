@@ -26,6 +26,15 @@ This is a silly script so no tests, try it out using poetry:
 poetry run python csvql.py -h
 ```
 
+Or activate poetrys managed local venv
+
+```
+source .venv/bin/activate
+./csvql.py
+```
+
+`
+
 ## release standalone exec
 
 To build a standalone executable:
