@@ -20,6 +20,15 @@ poetry run python csvql.py -h
 
 ```
 
+## release standalone exec
+
+To build a standalone executable:
+``` 
+poetry run pytinstaller csvql.py --onefile
+
+ls dist  # exec will be generated dist folder
+```
+
 ## License 
 
 Inherited from dependencies. No warranties given.
