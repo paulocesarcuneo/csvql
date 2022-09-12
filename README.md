@@ -1,6 +1,10 @@
 # CSVQL
 Query csv from current working directory using sql.
 
+
+https://user-images.githubusercontent.com/5214601/189738240-f2c385d7-bf42-4e53-870d-adf67d9248df.mp4
+
+
 ## dependencies
 * poetry
 * pandas
