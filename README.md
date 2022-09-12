@@ -16,7 +16,7 @@ cd csvql
 
 poetry install 
 
-poetry run python csvql.py
+poetry run python csvql.py -h
 
 ```
 
